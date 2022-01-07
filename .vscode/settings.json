@@ -1,0 +1,6 @@
+{
+      "vetur.format.options.useTabs": true,
+      "vetur.format.scriptInitialIndent": true,
+      "vetur.validation.templateProps": true,
+      "editor.tabSize": 3
+}
